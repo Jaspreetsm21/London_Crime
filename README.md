@@ -2,12 +2,12 @@
 London has 33 Borough and 
 
 # Data Cleaning and EDA
-![](/image/mm.PNG)
-![](/image/area_line_graph.PNG)
-![](/image/area.PNG)
-![](/image/serious_line.PNG)
-![](/image/serious.PNG)
-![](/image/serious_line.PNG
+![](image/mm.PNG)
+![](image/area_line_graph.PNG)
+![](image/area.PNG)
+![](image/serious_line.PNG)
+![](image/serious.PNG)
+![](image/serious_line.PNG
 # Insights
 
 # Streamlit Dashboard
