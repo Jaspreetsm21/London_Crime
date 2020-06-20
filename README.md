@@ -1,7 +1,13 @@
 # London Borough Crime: Data Analysis Project
 London has 33 boroughs and its one of most busiest place in the UK. I will be using the data set to explore the type of crimes that been committed and the areas they tend to take place.
 
-# Data Cleaning and EDA
+1 - Carried out EDA on crime data set across London for the last 24 months and finding the areas where the most crime is committed.
+
+2.0 - Built a dashboard for London Crime in the last two years on Streamlit platform which is free and easy to share with stakeholders.
+
+2.1 - Built a client facing API and Heroku to view the dashboard on [Streamlit](https://londoncrime.herokuapp.com/).
+
+# 1 Data Cleaning and EDA
 ![](image/mm.PNG)
 
 ![](image/area.PNG)
@@ -22,6 +28,6 @@ London has 33 boroughs and its one of most busiest place in the UK. I will be us
 - Majority of the London Borough averages about 10 serious crimes cases each month.However from the heat map we can see some of the borough are averaging about 50 serious crime cases each month.Tower Hamlets has the most serious crime cases committed each month.
 - Tower Hamlets has 25 rape cases on average each month however since covid 19 it has decreased. But Knife crime has increased since covid 19.
 
-# [Streamlit Dashboard](https://londoncrime.herokuapp.com/)
+# [2 Streamlit Dashboard](https://londoncrime.herokuapp.com/)
 
 Streamlit is a platform that allows users to build ML Dashboard, so for my project I created a dashboard for London crime in the last two years.
