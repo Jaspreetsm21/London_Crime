@@ -1,5 +1,5 @@
 # London Borough Crime: Data Analysis Project
-London has 33 Borough and 
+London has 33 boroughs and its one of most busiest place in the UK. I will be using the data set to explore the type of crimes that been committed and the areas they tend to take place.
 
 # Data Cleaning and EDA
 ![](image/mm.PNG)
