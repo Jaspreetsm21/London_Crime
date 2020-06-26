@@ -35,3 +35,5 @@ London has 33 boroughs and its one of the most busiest place in the UK. I will b
 Streamlit is a platform that allows users to build ML Dashboard, so for my project I created a dashboard for London crime in the last two years.
 
 # [3. Forecasting - Seasonal ARIMA]()
+
+![](image/forecast.PNG)
