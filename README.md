@@ -37,3 +37,5 @@ Streamlit is a platform that allows users to build ML Dashboard, so for my proje
 # [3. Forecasting - Seasonal ARIMA](https://github.com/Jaspreetsm21/London_Crime/blob/master/Time_Series_Analysis.ipynb)
 
 ![](image/forecast1.PNG)
+
+My forecast for London Crimes. I am pretty happy with my results. However, the confidence interval is very wide.
