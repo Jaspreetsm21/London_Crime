@@ -41,4 +41,4 @@ The ARIMA model performed well with accuracy of MAE~3572.
 
 ![](image/forecast1.PNG)
 
-My forecast for London Crimes. I am pretty happy with my results. However, the confidence interval is very wide.
+My forecast for London Crimes in the next 12 months. I am pretty happy with my results. However, the confidence interval is very wide.
