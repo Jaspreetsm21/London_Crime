@@ -7,7 +7,7 @@ London has 33 boroughs and its one of the most busiest place in the UK. I will b
 
 2.1 - Built a client facing API and Heroku to view the dashboard on [Streamlit](https://londoncrime.herokuapp.com/).
 
-3.0 - I will be using the crime data set from June 2018 to May 2020 and forecast the crimes committed in London for the next 12 months using Seasonal ARIMA model.
+3.0 - I will be using the crime data set from June 2018 to May 2020 and forecast the crimes committed in London for the next 12 months using ARIMA model.
 
 # 1. Data Cleaning and EDA
 ![](image/mm.PNG)
