@@ -37,7 +37,7 @@ Streamlit is a platform that allows users to build ML Dashboard, so for my proje
 # [3. Forecasting - ARIMA](https://github.com/Jaspreetsm21/London_Crime/blob/master/Time_Series_Analysis.ipynb)
 ![](image/actual.PNG)
 
-The ARIMA model performed well with the accuracy of crime rate MAE~3572.
+The ARIMA model performed well with the accuracy of the crime rate MAE~3572.
 
 ![](image/forecast1.PNG)
 
